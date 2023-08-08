@@ -19,6 +19,7 @@
 <a href="https://www.facebook.com/zezo.nada.16/" target="_blank"><img src="https://img.shields.io/badge/-Zeyad%20Nada-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
+
 ![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![mysql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MYSQL)&nbsp;
 ![laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=LARAVEL)&nbsp;
