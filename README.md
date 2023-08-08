@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<!--<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">-->
 
 <h3 align="center">
   Welcome to Zeyad Nada's profile!
@@ -22,8 +22,7 @@
 ### 🛠 &nbsp;Tech Stack
 ![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![mysql](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
-
-
+![laravel](https://img.shields.io/badge/-LARAVEL-05122A?style=flat&logo=LARAVEL)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
