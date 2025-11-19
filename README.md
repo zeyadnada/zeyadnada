@@ -15,8 +15,13 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/zeyad-nada-79a37721a/" target="_blank"> <img src="https://img.shields.io/badge/-Zeyad%20Nada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/zezo.nada.16/" target="_blank"><img src="https://img.shields.io/badge/-Zeyad%20Nada-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zeyad-nada-79a37721a/" target="_blank">
+  <img src="https://img.shields.io/badge/-Zeyad%20Nada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/zezo.nada.16/" target="_blank">
+  <img src="https://img.shields.io/badge/-Zeyad%20Nada-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 
